@@ -1,0 +1,11 @@
+{
+  "name": "dao-governance-timelock",
+  "version": "1.0.0",
+  "description": "Smart contracts for DAO governance and voting",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.0"
+  }
+}
